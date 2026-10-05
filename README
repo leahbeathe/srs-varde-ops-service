@@ -1,1 +1,8 @@
-testes
+varde-ops-service/
+├── src/
+├── keycloak/
+│   ├── realm-export.json
+│   └── README.md
+├── Dockerfile
+├── docker-compose.dev.yml   # optional local dev
+└── README.md
